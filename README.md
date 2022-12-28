@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Alfie-Mills<br>👀 I’m interested in Web Development, AI, and Automation Testing<br>🌱 I’m currently learning TensorFlow and the MERN Stack<br>💞️ I’m looking to collaborate on creative projects!<br>📫 How to reach me: me@alfiemills.co.uk
+👋 Hi, I’m @Alfie-Mills<br>👀 I’m interested in Web Development, AI, and Automation Testing<br>🌱 I’m currently learning TensorFlow and the MERN Stack<br>💞️ I’m looking to collaborate on creative projects!<br>📫 How to reach me: me@alfiemills.co.uk<br>⭐️ My passion and determination to do the things I love set me apart, and ensure I give 100% in all my projects. My ultimate goal is to learn a little bit about everything digital, one step at a time!
 
 
 ## 🌐 Socials:
